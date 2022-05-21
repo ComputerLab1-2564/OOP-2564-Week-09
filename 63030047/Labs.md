@@ -80,7 +80,7 @@ namespace method_examples
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
 ```
-![lab9.1](./Pic/lab9.1.PNG)
+![lab9.1](./Pic/lab9.1.png)
    
 ```   
 
@@ -149,7 +149,7 @@ namespace method_examples
 3. บันทึกผล
 ```
 
- ![lab9.2](./Pic/lab9.2.PNG)
+ ![lab9.2](./Pic/lab9.2.png)
    
 ```   
 
