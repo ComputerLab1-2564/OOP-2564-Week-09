@@ -79,10 +79,10 @@ namespace method_examples
 
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
-![lab9_1](./lab9_1.PNG)
+
+![field](./Pic/field.png)
    
-```   
+ 
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
@@ -147,11 +147,11 @@ namespace method_examples
 ```
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
- ![lab9_2](./lab9_2.PNG)
-   
-```   
+
+ ![access](./Pic/access.png)
+
+ 
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
